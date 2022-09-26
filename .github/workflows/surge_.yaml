@@ -37,4 +37,4 @@ jobs:
       - name: Install Surge
         run: npm install -g surge
       - name: Run Surge
-        run: surge ./build ecommorce.surge.sh/ --token ${{secrets.TOKEN}}
+        run: surge ./build ecommorce.surge.sh --token ${{secrets.TOKEN}}
