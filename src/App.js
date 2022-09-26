@@ -3,7 +3,7 @@
 const App = () => {
   return(
     <div>
-    Animated website using svg ill
+    Animated website using svg Animated file
     </div>
     )
 }
